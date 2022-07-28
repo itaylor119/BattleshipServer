@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "98rOhzcIZNWII8V6FGa96WB744PeAst/6LxbxOl1e+tdH8x1/BlLgIpYVVW7/kjR+Zp40QQ0IvQMpLR/3v+Rcg==",
+  "success": true,
+  "projectFilePath": "D:\\School\\FinalProject\\New folder\\New folder\\TCPtest\\TCPserver\\TCPserver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thibe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,80 @@
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.exe
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.deps.json
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.runtimeconfig.json
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.runtimeconfig.dev.json
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.dll
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\bin\Debug\net5.0\ref\TCPserver.dll
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.pdb
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.csproj.AssemblyReference.cache
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.AssemblyInfoInputs.cache
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.AssemblyInfo.cs
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.csproj.CoreCompileInputs.cache
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.dll
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\obj\Debug\net5.0\ref\TCPserver.dll
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.pdb
+C:\Users\Crazy\source\repos\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.genruntimeconfig.cache
+G:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.csproj.AssemblyReference.cache
+G:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.GeneratedMSBuildEditorConfig.editorconfig
+G:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.AssemblyInfoInputs.cache
+G:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.AssemblyInfo.cs
+G:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.csproj.CoreCompileInputs.cache
+G:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.dll
+G:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.pdb
+G:\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.exe
+G:\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.deps.json
+G:\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.runtimeconfig.json
+G:\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.runtimeconfig.dev.json
+G:\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.dll
+G:\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.pdb
+G:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\refint\TCPserver.dll
+G:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.genruntimeconfig.cache
+G:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\ref\TCPserver.dll
+E:\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.exe
+E:\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.deps.json
+E:\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.runtimeconfig.json
+E:\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.runtimeconfig.dev.json
+E:\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.dll
+E:\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\ref\TCPserver.dll
+E:\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.pdb
+E:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.csproj.AssemblyReference.cache
+E:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.GeneratedMSBuildEditorConfig.editorconfig
+E:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.AssemblyInfoInputs.cache
+E:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.AssemblyInfo.cs
+E:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.csproj.CoreCompileInputs.cache
+E:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.dll
+E:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\ref\TCPserver.dll
+E:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.pdb
+E:\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.genruntimeconfig.cache
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.exe
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.deps.json
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.runtimeconfig.json
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.runtimeconfig.dev.json
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.dll
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.pdb
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.csproj.AssemblyReference.cache
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.AssemblyInfoInputs.cache
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.AssemblyInfo.cs
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.csproj.CoreCompileInputs.cache
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.dll
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\refint\TCPserver.dll
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.pdb
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.genruntimeconfig.cache
+C:\Users\Crazy\Desktop\TCPnew\TCPtest\TCPserver\obj\Debug\net5.0\ref\TCPserver.dll
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.exe
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.deps.json
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.runtimeconfig.json
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.runtimeconfig.dev.json
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.dll
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\bin\Debug\net5.0\TCPserver.pdb
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.csproj.AssemblyReference.cache
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.AssemblyInfoInputs.cache
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.AssemblyInfo.cs
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.csproj.CoreCompileInputs.cache
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.dll
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\obj\Debug\net5.0\refint\TCPserver.dll
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.pdb
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\obj\Debug\net5.0\TCPserver.genruntimeconfig.cache
+D:\School\FinalProject\New folder\New folder\TCPtest\TCPserver\obj\Debug\net5.0\ref\TCPserver.dll
